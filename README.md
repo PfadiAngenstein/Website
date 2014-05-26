@@ -8,6 +8,7 @@ Das Changelog zur Website der Pfadi Angenstein (www.pfadiangenstein.ch).
 v2.1.3:
 - Hover-Farbe ändern (dunkleres Orange, #FFA400)
 - Kein Hovereffekt in der Navigation sowie bei Buttons
+  - Hover-Effekt in der Navigation: Gepunktete Linie unterhalb des :hover-Elements (gleiche Hervorhebung wie der aktive Menüpunkt)
 
 v2.1.2:
 - margin-top bei den Absätzen geändert (von 8px auf 15px)
