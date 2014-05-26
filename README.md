@@ -45,3 +45,6 @@ v1.0:
 - [ ] Website responsive machen
 - [x] Alert-Messages stylen
 - [x] Header bearbeiten
+ 
+##Kontakt
+Bei Fragen: Jonas Grüter v/o **Kaa**, kaa@pfadiangenstein.ch
