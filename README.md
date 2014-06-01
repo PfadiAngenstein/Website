@@ -5,6 +5,10 @@ Website www.pfadiangenstein.ch
 
 Das Changelog zur Website der Pfadi Angenstein (www.pfadiangenstein.ch).
 
+v2.1.4:
+- kleine Änderungen an der Navigation
+  - "herumhüpfen" der 2. Ebene unterbunden
+
 v2.1.3:
 - Hover-Farbe ändern (dunkleres Orange, #FFA400)
 - Kein Hovereffekt in der Navigation sowie bei Buttons
