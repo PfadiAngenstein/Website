@@ -33,7 +33,7 @@ v2.1:
 v2.01:
 - Schriftart auf <a href="http://www.google.com/fonts/specimen/Gudea">Gudea</a> geändert
 
-v2.0:
+<span id="2.0">v2.0:</span>
 - Neues Design
   - Bilder der Startseite vergrössert (1000px x 450px)
   - Gelbes Banner auf Startseite vergrössert
@@ -56,5 +56,8 @@ v1.0:
 - [x] Alert-Messages stylen
 - [x] Header bearbeiten
  
+##Info
+Die genaue Aufzeichnung des Changelogs begann erst mit dem als <a href="#2.0">v2.0</a> erfassten Release. Sorry!
+
 ##Kontakt
 Bei Fragen: Jonas Grüter v/o **Kaa**, kaa@pfadiangenstein.ch
