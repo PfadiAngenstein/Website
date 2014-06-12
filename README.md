@@ -5,8 +5,11 @@ Website www.pfadiangenstein.ch
 
 Das Changelog zur Website der Pfadi Angenstein (www.pfadiangenstein.ch).
 
-v2.1.5 BETA:
-- RSS-Feed der News integriert (Datei nur verlinkt, geplant ist eine Integration im Footer)
+v2.1.6:
+- Iframes systemweit erlaubt
+
+~~v2.1.5 BETA:~~
+- ~~RSS-Feed der News integriert (Datei nur verlinkt, geplant ist eine Integration im Footer)~~ 
 
 v2.1.4:
 - kleine Änderungen an der Navigation
