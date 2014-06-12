@@ -34,7 +34,7 @@ v2.01:
 - Schriftart auf <a href="http://www.google.com/fonts/specimen/Gudea">Gudea</a> geändert
 
 <span id="2.0">v2.0:</span>
-- Neues Design
+- Neues Design :sparkles: :tada: :tada: :confetti_ball:
   - Bilder der Startseite vergrössert (1000px x 450px)
   - Gelbes Banner auf Startseite vergrössert
   - Navigation nach oben verschoben
