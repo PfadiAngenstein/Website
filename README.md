@@ -9,7 +9,7 @@ v2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
 
 v2.1.6:
-- Iframes systemweit erlaubt
+- `Iframes` systemweit erlaubt
 
 ~~v2.1.5 BETA:~~
 - ~~RSS-Feed der News integriert (Datei nur verlinkt, geplant ist eine Integration im Footer)~~ 
