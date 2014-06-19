@@ -59,7 +59,7 @@ v1.0:
 - [x] Header bearbeiten
  
 ##Info
-Die genaue Aufzeichnung des Changelogs begann erst mit dem als v2.0 erfassten Release. Sorry!
+Die genaue Aufzeichnung des Changelogs begann erst mit dem als v2.0 erfassten Release. Sorry! :hushed:
 
 ##Kontakt
 Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
