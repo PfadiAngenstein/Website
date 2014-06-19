@@ -33,7 +33,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
   - Adresse sowie Parkplatzsituation vermerkt
 
 #####v2.01:
-- Schriftart auf [Gudea][5] geändert
+- Schriftart auf [Gudea][gudea] geändert
 
 #####v2.0:
 - Neues Design :sparkles: :tada: :tada: :confetti_ball:
@@ -69,7 +69,7 @@ Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
 [2]: http://new.pfadiangenstein.ch "new.pfadiangenstein.ch"
 [3]: http://www.google.com/fonts/specimen/Open+Sans "Open Sans"
 [4]: http://www.pfadiangenstein.ch/index.php/kontakt "Kontaktformular"
-[5]: http://www.google.com/fonts/specimen/Gudea "Gudea"
+[gudea]: http://www.google.com/fonts/specimen/Gudea "Gudea"
 [6]: https://mapsengine.google.com/map/ "Google Maps Engine Lite"
 [7]: http://www.pfadiangenstein.ch/index.php/antretorte "Antretorte"
 [8]: https://github.com/faitnoise/Website/blob/master/README.md#v20 "Release 2.0"
