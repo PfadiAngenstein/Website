@@ -4,38 +4,38 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][0]).
 
-v2.2:
+######v2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
 
-v2.1.6:
+######v2.1.6:
 - `Iframes` systemweit erlaubt
 
-~~v2.1.5 BETA:~~
+######~~v2.1.5 BETA:~~
 - ~~RSS-Feed der News integriert (Datei nur verlinkt, geplant ist eine Integration im Footer)~~ 
 
-v2.1.4:
+######v2.1.4:
 - kleine Änderungen an der Navigation
   - "herumhüpfen" der 2. Ebene unterbunden
 
-v2.1.3:
+######v2.1.3:
 - Hover-Farbe ändern (dunkleres Orange, `#FFA400`)
 - Kein Hovereffekt in der Navigation sowie bei Buttons
   - Hover-Effekt in der Navigation: Gepunktete Linie unterhalb des `:hover`-Elements (gleiche Hervorhebung wie der aktive Menüpunkt)
 
-v2.1.2:
+######v2.1.2:
 - `margin-top` bei den Absätzen geändert (von 8px auf 15px)
 
-v2.1.1:
+######v2.1.1:
 - Schriftgrösse geändert
 
-v2.1:
+######v2.1:
 - Antretorte ([Google Maps Engine Lite][6]) in `iframe` eingebunden ([www.pfadiangenstein.ch/index.php/antretorte][7])
   - Adresse sowie Parkplatzsituation vermerkt
 
-v2.01:
+######v2.01:
 - Schriftart auf [Gudea][5] geändert
 
-<span id="2.0">v2.0:</span>
+######v2.0:
 - Neues Design :sparkles: :tada: :tada: :confetti_ball:
   - Bilder der Startseite vergrössert (1000px x 450px)
   - Gelbes Banner auf Startseite vergrössert
@@ -44,13 +44,13 @@ v2.01:
 - Kontaktformular ([www.pfadiangenstein.ch/index.php/kontakt][4])
 
 
-v2.0 Beta ([new.pfadiangenstein.ch][2]:
+######v2.0 Beta ([new.pfadiangenstein.ch][2]:
 - Neues Design
 
-v1.1:
+######v1.1:
 - Designanpassungen
 
-v1.0:
+######v1.0:
 - erster Release
 
 ##To Do
