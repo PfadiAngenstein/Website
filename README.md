@@ -1,8 +1,8 @@
-#Website [www.pfadiangenstein.ch][0]
+#Website [www.pfadiangenstein.ch][homepage]
 
 ##Changelog
 
-Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][0]).
+Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 #####v2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
@@ -64,7 +64,7 @@ Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfasst
 ##Kontakt
 Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
 
-[0]: http://www.pfadiangenstein.ch "www.pfadiangenstein.ch"
+[homepage]: http://www.pfadiangenstein.ch "www.pfadiangenstein.ch"
 [1]: mailto:kaa@pfadiangenstein.ch "kaa@pfadiangenstein.ch"
 [2]: http://new.pfadiangenstein.ch "new.pfadiangenstein.ch"
 [3]: http://www.google.com/fonts/specimen/Open+Sans "Open Sans"
