@@ -18,12 +18,12 @@ v2.1.4:
   - "herumhüpfen" der 2. Ebene unterbunden
 
 v2.1.3:
-- Hover-Farbe ändern (dunkleres Orange, ´#FFA400´)
+- Hover-Farbe ändern (dunkleres Orange, `#FFA400`)
 - Kein Hovereffekt in der Navigation sowie bei Buttons
   - Hover-Effekt in der Navigation: Gepunktete Linie unterhalb des `:hover`-Elements (gleiche Hervorhebung wie der aktive Menüpunkt)
 
 v2.1.2:
-- ´margin-top´ bei den Absätzen geändert (von 8px auf 15px)
+- `margin-top` bei den Absätzen geändert (von 8px auf 15px)
 
 v2.1.1:
 - Schriftgrösse geändert
