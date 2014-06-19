@@ -47,7 +47,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][0]).
 #####v2.0 Beta ([new.pfadiangenstein.ch][2]:
 - Neues Design
 
-######v1.1:
+#####v1.1:
 - Deignanpassungen
 
 #####v1.0:
@@ -59,7 +59,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][0]).
 - [x] Header bearbeiten
  
 ##Info
-Die genaue Aufzeichnung des Changelogs begann erst mit dem als v2.0 erfassten Release. Sorry! :hushed:
+Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry! :hushed:
 
 ##Kontakt
 Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
@@ -72,3 +72,4 @@ Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
 [5]: http://www.google.com/fonts/specimen/Gudea "Gudea"
 [6]: https://mapsengine.google.com/map/ "Google Maps Engine Lite"
 [7]: http://www.pfadiangenstein.ch/index.php/antretorte "Antretorte"
+[8]: https://github.com/faitnoise/Website/blob/master/README.md#v20 "Release 2.0"
