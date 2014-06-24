@@ -5,7 +5,7 @@
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 #####v2.2.1:
-- `ul, ol { list-style-position: outside; }` in `ul, ol {list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen in Bildern hängen)
+- `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen in Bildern hängen)
 
 #####v2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
