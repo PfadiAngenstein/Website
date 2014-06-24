@@ -65,10 +65,10 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry! :hushed:
 
 ##Kontakt
-Bei Fragen: Jonas Grüter v/o **Kaa**, [kaa@pfadiangenstein.ch][1]
+Bei Fragen: Jonas Grüter v/o **Kaa**, [webmaster@pfadiangenstein.ch][1]
 
 [homepage]: http://www.pfadiangenstein.ch "www.pfadiangenstein.ch"
-[1]: mailto:kaa@pfadiangenstein.ch "kaa@pfadiangenstein.ch"
+[1]: mailto:webmaster@pfadiangenstein.ch "webmaster@pfadiangenstein.ch"
 [2]: http://new.pfadiangenstein.ch "new.pfadiangenstein.ch"
 [3]: http://www.google.com/fonts/specimen/Open+Sans "Open Sans"
 [4]: http://www.pfadiangenstein.ch/index.php/kontakt "Kontaktformular"
