@@ -5,12 +5,12 @@
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 #####v2.3.1
-- `ul, ol { list-style-position: inside; }` in `ul, ol { list-stlye-position: outside; margin-left: 20px }` geändert (behebt das Problem der Version [v2.2.1](#2.2.1)
+- `ul, ol { list-style-position: inside; }` in `ul, ol { list-stlye-position: outside; margin-left: 20px }` geändert (behebt das Problem der Version [v2.2.1](9)
 
 #####v2.3
 - Suchfeld im Footer eingefügt
 
-#####v2.2.1: <a name="2.2.1">&nbsp;</a>
+#####v2.2.1:
 - `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen nicht angzeigt werden)
   - dafür passt der hängende Einzug nicht mehr :unamused:
  
@@ -83,3 +83,4 @@ Bei Fragen: Jonas Grüter v/o **Kaa**, [webmaster@pfadiangenstein.ch][1]
 [6]: https://mapsengine.google.com/map/ "Google Maps Engine Lite"
 [7]: http://www.pfadiangenstein.ch/index.php/antretorte "Antretorte"
 [8]: https://github.com/faitnoise/Website/blob/master/README.md#v20 "Release 2.0"
+[9]: https://github.com/faitnoise/Website/blob/master/README.md#v211 "Release 2.1.1"
