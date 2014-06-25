@@ -4,9 +4,13 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
-#####v2.2.1:
-- `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen in Bildern hängen)
+#####v2.3
+- Suchfeld im Footer eingefügt
 
+#####v2.2.1:
+- `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen nicht angzeigt werden)
+  - dafür passt der hängende Einzug nicht mehr :unamused:
+ 
 #####v2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
 
