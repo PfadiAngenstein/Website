@@ -72,7 +72,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry! :hushed:
 
 ##Kontakt
-Bei Fragen: Jonas Grüter v/o **Kaa**, [webmaster@pfadiangenstein.ch][1]
+Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 
 [homepage]: http://www.pfadiangenstein.ch "www.pfadiangenstein.ch"
 [1]: mailto:webmaster@pfadiangenstein.ch "webmaster@pfadiangenstein.ch"
