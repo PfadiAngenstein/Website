@@ -57,7 +57,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Kontaktformular ([www.pfadiangenstein.ch/index.php/kontakt][4])
 
 
-#####v2.0 Beta ([new.pfadiangenstein.ch][2]):
+#####v2.0 Beta ([new.pfadiangenstein.ch][2], nicht mehr aktiv):
 - Neues Design
 
 #####v1.1:
