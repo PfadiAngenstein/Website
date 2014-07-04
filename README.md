@@ -11,7 +11,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Datenbankstruktur und damit einhergehende Joomla-Core angepasst für Abfragen durch die [Android-App][10].
 
 #####v2.3.1
-- `ul, ol { list-style-position: inside; }` in `ul, ol { list-stlye-position: outside; margin-left: 20px }` geändert (behebt das Problem der Version [v2.2.1][9]
+- `ul, ol { list-style-position: inside; }` in `ul, ol { list-stlye-position: outside; margin-left: 20px }` geändert (behebt das Problem der Version [v2.2.1](#v.2.2.1)
 
 #####v2.3
 - Suchfeld im Footer eingefügt
