@@ -4,6 +4,11 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+#####2.3.4
+- Kontaktbox im Footer entfernt
+- Ersetzt durch Newsanzeige (jeweils der neuste Artikel wird angezeigt)
+- [RSS][11] und [Atom][12]-Feed erstellt für die News
+
 #####v2.3.3
 - `code { font-family: 'Source Code Pro', 'Conosolas', monospace; }` im CSS hinzugefügt
 
@@ -91,3 +96,5 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [8]: https://github.com/faitnoise/Website/blob/master/README.md#v20 "Release 2.0"
 [9]: https://github.com/faitnoise/Website/blob/master/README.md#v221 "Release 2.2.1"
 [10]: https://github.com/faitnoise/pfadiangenstein "Android App"
+[11]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=rss "RSS Feed"
+[12]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=atom "Atom-Feed"
