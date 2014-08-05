@@ -4,6 +4,10 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+#####2.3.5
+- Kleine Code-Anpassungen für Vorbereitung auf ein responsives Design
+- Datenbankoptimierungen
+
 #####2.3.4
 - Kontaktbox im Footer entfernt
 - Ersetzt durch Newsanzeige (jeweils der neuste Artikel wird angezeigt)
