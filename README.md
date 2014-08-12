@@ -90,6 +90,8 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - [ ] Website responsive machen
 - [x] Alert-Messages stylen
 - [x] Header bearbeiten
+- [x] Website schneller machen
+- [x] Datenbank für App anpassen
  
 ##Info
 Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry! :hushed:
