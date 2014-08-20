@@ -4,11 +4,13 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+
+
 #####2.3.8
 - Copyright Hinweis "&copy; 2014 Pfadi Angenstein" im Footer hinzugefügt
 
 #####2.3.7
-- DNS-Eintrag angepasst: Seite ohne das `www` erreichbar (sobald DNS-Server wieder upgedatet wird)
+- DNS-Eintrag angepasst: Seite ohne das `www` erreichbar (sobald DNS-Server wieder upgedatet wird)  :clap: :bowtie:
 
 #####2.3.6
 - Auf Version 3.3.3 geupdatet (von 3.2.5)
