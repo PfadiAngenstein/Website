@@ -4,7 +4,8 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
-
+#####2.3.10
+- Wenn ein Modul links oder rechts der Hauptteils angezeigt wurde, hat es die Schriftgrösse der Seite geändert. Problem behobe.
 
 #####2.3.9
 - Favicon updated
