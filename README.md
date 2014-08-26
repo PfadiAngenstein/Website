@@ -6,6 +6,11 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 
 
 
+#####2.3.9
+- Favicon updated
+- Apple Touch Icon hinzugefügt
+- MS Application Tile hinzugefügt
+
 #####2.3.8
 - Copyright Hinweis "&copy; 2014 Pfadi Angenstein" im Footer hinzugefügt
 
