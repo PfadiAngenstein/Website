@@ -31,54 +31,54 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Ersetzt durch Newsanzeige (jeweils der neuste Artikel wird angezeigt)
 - [RSS][11] und [Atom][12]-Feed erstellt für die News
 
-#####v2.3.3
+#####2.3.3
 - `code { font-family: 'Source Code Pro', 'Conosolas', monospace; }` im CSS hinzugefügt
 
-#####v2.3.2
+#####2.3.2
 - Datenbankstruktur und damit einhergehende Joomla-Core angepasst für Abfragen durch die [Android-App][10].
 
-#####v2.3.1
+#####2.3.1
 - `ul, ol { list-style-position: inside; }` in `ul, ol { list-stlye-position: outside; margin-left: 20px }` geändert (behebt das Problem der Version [v2.2.1](#v221)
 
-#####v2.3
+#####2.3
 - Suchfeld im Footer eingefügt
 
-#####v2.2.1:
+#####2.2.1:
 - `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen nicht angzeigt werden)
   - dafür passt der hängende Einzug nicht mehr :unamused:
  
-#####v2.2:
+#####2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
 
-#####v2.1.6:
+#####2.1.6:
 - `Iframes` systemweit erlaubt
 
-#####~~v2.1.5 BETA:~~
+#####~~2.1.5 BETA:~~
 - ~~RSS-Feed der News integriert (Datei nur verlinkt, geplant ist eine Integration im Footer)~~ 
 
-#####v2.1.4:
+#####2.1.4:
 - kleine Änderungen an der Navigation
   - "herumhüpfen" der 2. Ebene unterbunden
 
-#####v2.1.3:
+#####2.1.3:
 - Hover-Farbe ändern (dunkleres Orange, `#FFA400`)
 - Kein Hovereffekt in der Navigation sowie bei Buttons
   - Hover-Effekt in der Navigation: Gepunktete Linie unterhalb des `:hover`-Elements (gleiche Hervorhebung wie der aktive Menüpunkt)
 
-#####v2.1.2:
+#####2.1.2:
 - `margin-top` bei den Absätzen geändert (von 8px auf 15px)
 
-#####v2.1.1:
+#####2.1.1:
 - Schriftgrösse geändert
 
-#####v2.1:
+#####2.1:
 - Antretorte ([Google Maps Engine Lite][6]) in `iframe` eingebunden ([www.pfadiangenstein.ch/index.php/antretorte][7])
   - Adresse sowie Parkplatzsituation vermerkt
 
-#####v2.01:
+#####2.01:
 - Schriftart auf [Gudea][gudea] geändert
 
-#####v2.0:
+#####2.0:
 - Neues Design :sparkles: :tada: :tada: :confetti_ball:
   - Bilder der Startseite vergrössert (1000px x 450px)
   - Gelbes Banner auf Startseite vergrössert
@@ -87,14 +87,14 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Kontaktformular ([www.pfadiangenstein.ch/index.php/kontakt][4])
 
 
-#####v2.0 Beta ([new.pfadiangenstein.ch][2], nicht mehr aktiv):
+#####2.0 Beta ([new.pfadiangenstein.ch][2], nicht mehr aktiv):
 - Neues Design
 
-#####v1.1:
+#####1.1:
 - Deignanpassungen
 
-#####v1.0:
-- erster Release
+#####1.0:
+- erster Release (ca. März 2012)
 
 ##To Do
 - [ ] Website responsive machen
