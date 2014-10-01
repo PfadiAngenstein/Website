@@ -4,6 +4,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+#####2.4 Beta
+- Mobile Internetseite: Momentan auf [www.pfadiangenstein.ch/mobile][mobil] erreichbar.
+
 #####2.3.11
 - Die Schriftart [Gudea][gudea] ist nicht mehr via Google Web Fonts eingebunden, sondern liegt jetzt auf dem Server.
 
@@ -126,3 +129,4 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [10]: https://github.com/faitnoise/pfadiangenstein "Android App"
 [11]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=rss "RSS Feed"
 [12]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=atom "Atom-Feed"
+[mobil]: http://www.pfadiangenstein.ch/mobile "Pfadi Angenstein Mobil"
