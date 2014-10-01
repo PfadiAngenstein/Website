@@ -4,7 +4,7 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
-#####2.4 Beta
+#####2.4 BETA
 - Mobile Internetseite: Momentan auf [www.pfadiangenstein.ch/mobile][mobil] erreichbar.
 
 #####2.3.11
