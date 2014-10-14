@@ -85,8 +85,11 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Antretorte ([Google Maps Engine Lite][6]) in `iframe` eingebunden ([www.pfadiangenstein.ch/index.php/antretorte][7])
   - Adresse sowie Parkplatzsituation vermerkt
 
-#####2.01:
+#####2.02
 - Schriftart auf [Gudea][gudea] geändert
+
+#####2.01:
+- Schriftart auf [Roboto][roboto] geändert
 
 #####2.0:
 - Neues Design :sparkles: :tada: :tada: :confetti_ball:
@@ -125,6 +128,7 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [3]: http://www.google.com/fonts/specimen/Open+Sans "Open Sans"
 [4]: http://www.pfadiangenstein.ch/index.php/kontakt "Kontaktformular"
 [gudea]: http://www.google.com/fonts/specimen/Gudea "Gudea"
+[roboto]: http://www.google.com/fonts/specimen/Roboto "Roboto"
 [6]: https://mapsengine.google.com/map/ "Google Maps Engine Lite"
 [7]: http://www.pfadiangenstein.ch/index.php/antretorte "Antretorte"
 [8]: https://github.com/faitnoise/Website/blob/master/README.md#v20 "Release 2.0"
