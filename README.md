@@ -7,8 +7,8 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 ##### 2.4:
 - Die Website ist jetzt für mobile Endgeräte optimiert! :sparkles::tada::confetti_ball:
 - Folgende Bugs sind bekannt und werden in den nächsten Tagen behoben:
-  - [ ] Das Menu sieht teilweise komisch aus
-  - [ ] Das Pfadi Angenstein-Logo ist im Firefox auf Mac nicht skaliert.
+  - [x] Das Menu sieht teilweise komisch aus
+  - [x] Das Pfadi Angenstein-Logo ist im Firefox auf Mac nicht skaliert.
 
 #####~~2.4 BETA~~
 - ~~Mobile Internetseite: Momentan auf [www.pfadiangenstein.ch/mobile][mobil] erreichbar.~~
