@@ -4,6 +4,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.1:
+- Schriftart gewechselt: neu [Droid Sans][droidsans]. Natürlich lokal eingebunden
+
 ##### 2.4:
 - Die Website ist jetzt für mobile Endgeräte optimiert! :sparkles::tada::confetti_ball:
 - Folgende Bugs sind bekannt und werden in den nächsten Tagen behoben:
@@ -143,3 +146,4 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [11]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=rss "RSS Feed"
 [12]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=atom "Atom-Feed"
 [mobil]: http://www.pfadiangenstein.ch/mobile "Pfadi Angenstein Mobil"
+[droidsans]: https://www.google.com/fonts/specimen/Droid+Sans "Droid Sans"
