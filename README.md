@@ -4,11 +4,14 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.2
+- Schriftart von input-Felder usw. mittels ` input, textarea, select { font-family: inherit; }` angepasst.
+
 ##### 2.4.1:
-- ~~Schriftart gewechselt: neu [Droid Sans][droidsans]. Natürlich lokal eingebunden~~
+- ~~Schriftart gewechselt: neu [Droid Sans][droidsans],  lokal eingebunden~~
 
 ##### 2.4:
-- Die Website ist jetzt für mobile Endgeräte optimiert! :sparkles::tada::confetti_ball:
+- Die Website ist jetzt für mobile Endgeräte optimiert!
 - Folgende Bugs sind bekannt und werden in den nächsten Tagen behoben:
   - [x] Das Menu sieht teilweise komisch aus
   - [x] Das Pfadi Angenstein-Logo ist im Firefox auf Mac nicht skaliert.
@@ -34,7 +37,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - Copyright Hinweis "&copy; 2014 Pfadi Angenstein" im Footer hinzugefügt
 
 #####2.3.7
-- DNS-Eintrag angepasst: Seite ohne das `www` erreichbar (sobald DNS-Server wieder upgedatet wird)  :clap: :bowtie:
+- DNS-Eintrag angepasst: Seite ohne das `www` erreichbar (sobald DNS-Server wieder upgedatet wird)
 
 #####2.3.6
 - Auf Version 3.3.3 geupdatet (von 3.2.5)
@@ -64,7 +67,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 
 #####2.2.1:
 - `ul, ol { list-style-position: outside; }` in `ul, ol { list-style-position: inside; }` geändert (behebt Problem, dass Aufzählungszeichen nicht angzeigt werden)
-  - dafür passt der hängende Einzug nicht mehr :unamused:
+  - dafür passt der hängende Einzug nicht mehr
  
 #####2.2:
 - Das Topmenu angepasst: `margin-left: 0;`
@@ -119,14 +122,14 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 - erster Release (ca. März 2012)
 
 ##To Do
-- [ ] Website responsive machen
+- [x] Website responsive machen
 - [x] Alert-Messages stylen
 - [x] Header bearbeiten
 - [x] Website schneller machen
 - [x] Datenbank für App anpassen
  
 ##Info
-Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry! :hushed:
+Die genaue Aufzeichnung des Changelogs begann erst mit dem als [v2.0][8] erfassten Release. Sorry!
 
 ##Kontakt
 Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
