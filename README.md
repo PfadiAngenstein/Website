@@ -41,7 +41,7 @@ Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepag
 
 #####2.3.6
 - Auf Version 3.3.3 geupdatet (von 3.2.5)
-- Serverumzug
+  - möglich wegen Serverumzug -> neue PHP-Version
 - schnellere Ladezeiten
 
 #####2.3.5
