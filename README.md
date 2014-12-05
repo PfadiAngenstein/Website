@@ -1,6 +1,4 @@
-#Website [Pfadi Angenstein][homepage]
+#Website [Pfadi Angenstein](http://www.pfadiangenstein.ch)
 
-Das Design der Website basiert auf dem Template *[td-okini][template]*, mit eigenen Anpassungen.
+Das Design der Website basiert auf dem Template *[td-okini](http://demo.tempodesign.dk/okini)*, mit eigenen Anpassungen.
 
-[homepage] http://www.pfadiangenstein.ch
-[td-okini] http://demo.tempodesign.dk/okini
