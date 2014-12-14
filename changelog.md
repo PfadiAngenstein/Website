@@ -2,6 +2,17 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.3
+- `blockquotes` und `q` wie folgt angepasst: 
+```css
+blockquote, q {
+	quotes: none;
+	font-style: italic;
+	border-left: 3px #2A2A2A solid;
+	padding-left: 20px;
+}
+```
+
 ##### 2.4.2
 - Schriftart von input-Felder usw. mittels ` input, textarea, select { font-family: inherit; }` angepasst.
 
