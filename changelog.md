@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.4
+- Design der eingerückten Navigation angepasst wenn diese angewählt ist.
+
 ##### 2.4.3
 - `blockquotes` und `q` wie folgt angepasst: 
 ```css
