@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.5
+- Bugfixes für [2.4.4][13]
+
 ##### 2.4.4
 - Design der eingerückten Navigation angepasst wenn diese angewählt ist.
 
@@ -162,3 +165,4 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [12]: http://www.pfadiangenstein.ch/index.php/news?format=feed&type=atom "Atom-Feed"
 [mobil]: http://www.pfadiangenstein.ch/mobile "Pfadi Angenstein Mobil"
 [droidsans]: https://www.google.com/fonts/specimen/Droid+Sans "Droid Sans"
+[13]: https://github.com/faitnoise/Website/blob/master/README.md#v244 "Release 2.4.4"
