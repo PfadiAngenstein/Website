@@ -2,6 +2,12 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.4.6
+- Chrome for Mobile: Farbe der Statusleiste angepasst
+```html
+<meta name="theme-color" content="#53A6DC">
+```
+
 ##### 2.4.5
 - Bugfixes für [2.4.4][13]
 
