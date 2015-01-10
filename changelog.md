@@ -3,7 +3,7 @@
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 ##### 2.4.6
-- Chrome for Mobile: Farbe der Statusleiste angepasst - siehe [HTML5Rocks](html5rocks)
+- Chrome for Mobile: Farbe der Statusleiste angepasst - siehe [HTML5Rocks][html5rocks]
 ```html
 <meta name="theme-color" content="#53A6DC">
 ```
