@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### Beta 2.6
+- Unter [www.pfadiangenstein.ch/shop][shopurl] ist ein [Webshop][shop] am entstehen
+
 ##### 2.5
 - Eigene 404-Seite erstellt: [www.pfadiangenstein.ch/404](http://pfadiangenstein.ch/404)
 
@@ -176,3 +179,5 @@ Bei Fragen: Kaa, [webmaster@pfadiangenstein.ch][1]
 [droidsans]: https://www.google.com/fonts/specimen/Droid+Sans "Droid Sans"
 [13]: https://github.com/faitnoise/Website/blob/master/changelog.md#244 "Release 2.4.4"
 [html5rocks]: http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android "HTML5Rocks"
+[shop]: https://github.com/faitnoise/WebshopAngenstein "Webshop Repo"
+[shopurl]: http://www.pfadiangenstein.ch/shop "Webshop"
