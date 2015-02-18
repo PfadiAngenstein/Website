@@ -53,6 +53,9 @@ ol, ul {
 }
 blockquote, q {
 	quotes: none;
+	font-style: italic;
+	border-left: 3px #333 solid;
+	padding-left: 20px;
 }
 blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
@@ -82,7 +85,7 @@ body {
 	font-size: 0.9em;
 	/* font-size: 0.8em; */
 	line-height: 1.5em;
-	color: #252525;
+	color: #333;
 	background-color: #fff;
 	height: 100%;
 	position: relative;
@@ -403,7 +406,6 @@ hr {
 	z-index: 100;
 	border-bottom: 2px dotted transparent;
 }
-
 #topmenu li li a, #topmenu li.active li a {
 	width: 200px;
 	background-color: #252525;
@@ -414,6 +416,7 @@ hr {
 	margin: 0;
 	text-transform: none;
 }
+
 #topmenu li li a, #topmenu li.active li a {
 	margin: 0;
 	text-transform: none;
@@ -1862,6 +1865,15 @@ input, textarea, select {
 	border: 0;
 	border-top: 1px solid #444444;
 	margin-bottom: -1px;
+}
+#topmenu li li a, #topmenu li.active li a {
+	width: 200px;
+	background-color: transparent;
+	color: #8c8c8c;
+	padding: 0 0 0 0.5em;
+	font-size: 1.2em;
+	margin: 0;
+	text-transform: none;
 }
 }
 
