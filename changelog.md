@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.5.2
+- Headerfarbe auf `#FFEB3B`geändert (von `#FFFF00`)
+
 ##### 2.5.1
 - Schriftfarbe von `#2A2A2A` auf `#333`geändert (ausser `h1`-`h6`)
 
