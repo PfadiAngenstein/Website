@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.5.3
+- Grund-Schriftgrösse auf `1.1em` geändert.
+
 ##### 2.5.2
 - Headerfarbe auf `#FFEB3B`geändert (von `#FFFF00`)
 
