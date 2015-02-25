@@ -2,6 +2,20 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.5.4
+- Folgende CSS-Regel eingefügt:
+```css
+body p,
+body td,
+body li {
+	font-size: 1.1em;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+```
+
 ##### 2.5.3
 - Grund-Schriftgrösse auf `1.1em` geändert.
 
