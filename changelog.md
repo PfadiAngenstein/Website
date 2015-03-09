@@ -3,7 +3,7 @@
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 ##### Beta 2.6
-- Unter [www.pfadiangenstein.ch/shop](www.pfadiangenstein.ch/shop) ist unser Webshop erreichbar.
+- Unter [www.pfadiangenstein.ch/shop](http://www.pfadiangenstein.ch/shop) ist unser Webshop erreichbar.
 
 ##### 2.5.4
 - Folgende CSS-Regel eingefügt:
