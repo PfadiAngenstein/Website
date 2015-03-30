@@ -2,7 +2,10 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
-##### Beta 2.6
+##### 2.6.1
+- Schriftgrösse angepasst (jetzt überall auf der Seite gleich)
+
+##### 2.6
 - Unter [www.pfadiangenstein.ch/shop](http://www.pfadiangenstein.ch/shop) ist unser Webshop erreichbar.
 - Siehe auch das Repo [*WebsiteAngenstein*](https://github.com/faitnoise/WebshopAngenstein)
 
