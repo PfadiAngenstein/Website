@@ -152,6 +152,7 @@ q {
     font-style: italic;
     border-left: 3px #333 solid;
     padding-left: 20px;
+	font-family: "Merriweather", Times New Roman, Times, Georiga, serif;
 }
 
 blockquote:before,
@@ -248,6 +249,7 @@ h1 a:hover {
 
 h2 {
     font-family: 'Gudea', sans-serif;
+	font-size: 1.3em;
     font-weight: 700;
     line-height: 1.0em;
     color: #252525;
@@ -1219,7 +1221,7 @@ td p {
 }
 
 td {
-    padding: 5px;
+    padding: 5px 5px 5px 0;
 }
 
 .display-limit,
@@ -2167,4 +2169,239 @@ body.contentpane a:hover {
     background-color: #f24537;
     padding: 5px;
     margin-bottom: 20px;
+}
+
+.alert a,
+.alert a:hover,
+.alert a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+.alert-message > .close {
+    top: 15px;
+    font-size: 2em;
+    line-height: 2.5em;
+    width: 3em;
+    vertical-align: center;
+}
+
+.seitentitel {
+    font-size: 1.2em;
+    letter-spacing: normal;
+}
+
+.titeltabelle {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    border-color: #FFEB3B;
+}
+
+.active > a {
+    font-weight: bold;
+    border-bottom: 2px dotted #8c8c8c;
+    color: #000;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.item-separator {
+    height: 30px;
+    border-bottom: 1px solid #fff;
+}
+
+::selection {
+    background-color: #FFA400;
+    color: #000000;
+}
+
+.logobild {
+    height: 130px;
+}
+
+#content-w1,
+#content-w2,
+#content-w3 {
+    font-size: 1.1em;
+}
+
+.active > a,
+.active > a:hover,
+.active > a:active,
+.active > a:visited {
+    border-bottom: 2px dotted #8c8c8c ! important;
+}
+
+code {
+    font-family: 'Source Code Pro', 'Consolas', 'Courier New', monospace;
+}
+
+#topmenu {
+    display: block;
+}
+
+.slideshowwrapper {
+    width: 100%;
+    background: #FFEB3B;
+}
+
+#slideshow {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #FFEB3B;
+}
+
+#Slider {
+    padding: 0 0 40px 0;
+    clear: both;
+    position: relative;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    height: 450px;
+}
+
+.nivoo-slider,
+.nivoo-slider-holder {
+    height: auto;
+    overflow: hidden;
+}
+
+.nivoo-slider.got-control-nav {
+    height: 450px;
+}
+
+#Slider img {
+    width: 100%;
+    height: auto;
+    max-height: 450px;
+}
+
+input,
+textarea,
+select {
+    font-family: inherit;
+}
+
+.item-435 > a {
+    margin-left: 0;
+}
+
+@media only screen and (max-width: 1065px) {
+    #topmenu a {
+        margin-left: 17px;
+    }
+    #Slider {
+        height: 370px;
+    }
+    #box1,
+    #box2,
+    #box3 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    #topmenu {
+        font-size: 1em;
+    }
+    #Slider {
+        height: 280px;
+    }
+    body {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .seitentitel {
+        font-size: 0.8em;
+    }
+    .logobild {
+        height: 80px;
+    }
+    .item-page {
+        font-size: 0.9em;
+    }
+    .item-page h2 {
+        font-size: 1.4em;
+    }
+    .item-page h3 {
+        font-size: 1.2em;
+    }
+    .item-page h4 {
+        font-size: 1.0em;
+    }
+    #topmenu li {
+        display: block;
+        width: 100%;
+        margin-bottom: 0.5em;
+        font-size: 1.1em;
+    }
+    li.parent a {
+        margin-bottom: 0;
+    }
+    #topmenu a {
+        margin-left: 0;
+    }
+    #topmenu li ul {
+        display: block;
+        position: relative;
+        background: transparent;
+        color: #8c8c8c;
+        left: 0;
+    }
+    #topmenu li li {
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+    #topmenu li li a {
+        background: transparent;
+        color: #8c8c8c;
+        padding: 0 0 0 0.5em;
+        font-size: 1.2em;
+    }
+    #topmenu li li:first-child {
+        margin: 0;
+    }
+    #navlinks {
+        height: auto;
+    }
+    #topmenu li li,
+    #topmenu li li:first-child {
+        border: 0;
+        border-top: 1px solid #444444;
+        margin-bottom: -1px;
+    }
+    #topmenu li li a,
+    #topmenu li.active li a {
+        width: 200px;
+        background-color: transparent;
+        color: #8c8c8c;
+        padding: 0 0 0 0.5em;
+        font-size: 1.2em;
+        margin: 0;
+        text-transform: none;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    #Slider {
+        height: 210px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .logobild {
+        height: 60px;
+    }
+    .seitentitel {
+        font-size: 0.5em;
+    }
+    #Slider {
+        height: 150px;
+    }
 }
