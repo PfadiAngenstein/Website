@@ -3,7 +3,7 @@
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
 ##### 2.6.2
-- Logo von `.png`zu `.svg`
+- Logo von `.png` zu `.svg`
 
 ##### 2.6.1
 - Schriftgrösse angepasst (jetzt überall auf der Seite gleich)
