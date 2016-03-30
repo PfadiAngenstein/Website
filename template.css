@@ -7,31 +7,6 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-/* Fonts */
-
-@font-face {
-    font-family: 'Gudea';
-    src: url('../fonts/gudea-regular.eot');
-    src: url('../fonts/gudea-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/gudea-regular.woff') format('woff'), url('../fonts/gudea-regular.ttf') format('truetype'), url('../fonts/gudea-regular.svg#GudeaRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Gudea';
-    src: url('../fonts/gudea-italic.eot');
-    src: url('../fonts/gudea-italic.eot?#iefix') format('embedded-opentype'), url('../fonts/gudea-italic.woff') format('woff'), url('../fonts/gudea-italic.ttf') format('truetype'), url('../fonts/gudea-italic.svg#GudeaItalic') format('svg');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Gudea';
-    src: url('../fonts/gudea-bold.eot');
-    src: url('../fonts/gudea-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/gudea-bold.woff') format('woff'), url('../fonts/gudea-bold.ttf') format('truetype'), url('../fonts/gudea-bold.svg#GudeaBold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-}
 
 html,
 body,
@@ -186,7 +161,7 @@ body {
 
 body {
     text-align: left;
-    font-family: 'Gudea', sans-serif, Arial;
+    font-family: 'Open Sans', sans-serif, Arial;
     line-height: 1.5em;
     color: #333;
     background-color: #fff;
@@ -194,43 +169,10 @@ body {
     position: relative;
 }
 
-a {
-    color: #FFA400;
-    /* Rorange ;-) */
-    /* #ff9100 */
-    
-    text-decoration: underline;
-}
 
-a:hover {
-    color: #252525;
-    text-decoration: underline;
-    transition: all .2s ease-in;
-}
 
-img {
-    border-style: none;
-}
-
-em,
-i {
-    font-style: italic;
-}
-
-strong,
-b {
-    font-weight: bold;
-}
-
-p {
-    /* line-height: 1.6em; */
-    
-    line-height: 1.3em;
-    margin: 15px 0;
-}
 
 h1 {
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     line-height: 1.0em;
     color: #252525;
@@ -248,7 +190,6 @@ h1 a:hover {
 }
 
 h2 {
-    font-family: 'Gudea', sans-serif;
 	font-size: 1.3em;
     font-weight: 700;
     line-height: 1.0em;
@@ -267,7 +208,6 @@ h2 a:hover {
 }
 
 h3 {
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     line-height: 1.0em;
     color: #252525;
@@ -285,7 +225,6 @@ h3 a:hover {
 }
 
 h4 {
-    font-family: 'Gudea', sans-serif, Helvetica, Arial;
     font-weight: 700;
     font-style: italic;
     color: #252525000;
@@ -293,13 +232,11 @@ h4 {
 }
 
 h5 {
-    font-family: 'Gudea', sans-serif, Helvetica, Arial;
     font-weight: 400;
     color: #252525;
 }
 
 h6 {
-    font-family: 'Gudea', sans-serif, Helvetica, Arial;
     font-weight: 400;
 }
 
@@ -343,7 +280,7 @@ hr {
     display: block;
 }
 /*----------------------------------------------*/
-/* Buttoms
+/* Buttons
 /*----------------------------------------------*/
 
 #login-form input.button,
@@ -356,7 +293,6 @@ hr {
 #contact-form button.validate,
 #mailto-window button,
 .btn {
-    font-family: 'Gudea', sans-serif;
     font-weight: 400;
     font-size: 0.8em color: #FFFFFF;
     background-color: #adadad;
@@ -384,7 +320,6 @@ hr {
 }
 
 .readmore a {
-    font-family: 'Gudea', sans-serif;
     font-weight: 400;
     text-decoration: none;
     font-size: 0.8em;
@@ -440,7 +375,6 @@ hr {
 }
 
 #logo a {
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     font-size: 4.2em;
     line-height: 1.2em;
@@ -455,7 +389,6 @@ hr {
 }
 
 #logo div.sitedescription {
-    font-family: 'Gudea', sans-serif;
     font-weight: 400;
     letter-spacing: 0;
     color: #999999;
@@ -505,7 +438,6 @@ hr {
     float: left;
     margin: auto;
     margin-top: 0px;
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     font-size: 1.1em;
     letter-spacing: -0.1em;
@@ -558,7 +490,6 @@ a:visited {
 
 #topmenu li ul {
     position: absolute;
-    font-family: 'Gudea', sans-serif;
     font-weight: 400;
     font-size: 0.8em;
     letter-spacing: 0em;
@@ -910,7 +841,6 @@ div.control-nav a:hover {
 }
 
 .moduletable_menu h3 {
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     color: #252525;
     margin-bottom: 6px;
@@ -919,7 +849,6 @@ div.control-nav a:hover {
 }
 
 .moduletable h3 {
-    font-family: 'Gudea', sans-serif;
     font-weight: 700;
     color: #252525;
     /*font-size: 24px;*/
@@ -1285,7 +1214,6 @@ li.pagenav-prev a,
 li.pagenav-next a,
 li.previous a,
 li.next a {
-    font-family: 'Gudea', sans-serif;
     font-weight: 400;
     color: #fff;
     background-color: #adadad;
@@ -2289,6 +2217,10 @@ select {
     margin-left: 0;
 }
 
+.nav-pills {
+	margin-left: 0;
+}
+
 @media only screen and (max-width: 1065px) {
     #topmenu a {
         margin-left: 17px;
@@ -2404,4 +2336,36 @@ select {
     #Slider {
         height: 150px;
     }
+}
+
+a {
+    color: #FFA400;
+   text-decoration: underline;
+ }
+
+a:hover {
+    color: #252525;
+    text-decoration: underline;
+    transition: all .2s ease-in;
+}
+
+img {
+    border-style: none;
+}
+
+em,
+i {
+    font-style: italic;
+}
+
+strong,
+b {
+    font-weight: bold;
+}
+
+p {
+    /* line-height: 1.6em; */
+    
+    line-height: 1.3em;
+    margin: 15px 0;
 }
