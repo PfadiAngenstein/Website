@@ -161,7 +161,7 @@ body {
 
 body {
     text-align: left;
-    font-family: 'Open Sans', sans-serif, Arial;
+    font-family: 'Gudea', sans-serif, Arial;
     line-height: 1.5em;
     color: #333;
     background-color: #fff;
@@ -227,7 +227,7 @@ h3 a:hover {
 h4 {
     font-weight: 700;
     font-style: italic;
-    color: #252525000;
+    color: #252525;
     margin-top: 0.82em;
 }
 
@@ -372,6 +372,7 @@ hr {
 #logo {
     float: left;
     padding-top: 30px;
+  	width: 100%;
 }
 
 #logo a {
