@@ -2,6 +2,10 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+##### 2.6.4
+- Schriftart zurück auf Gudea gewechselt
+- Fix für den Internet Explorer _(»Pfadi Angenstein« nicht mehr auf 2 Zeilen)_
+
 ##### 2.6.3
 - Schriftart auf Open Sans gewechselt und via [Google Fonts](https://www.google.com/fonts) eingebunden
 
