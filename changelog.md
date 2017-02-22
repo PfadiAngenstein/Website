@@ -2,6 +2,9 @@
 
 Das Changelog zur Website der Pfadi Angenstein ([www.pfadiangenstein.ch][homepage]).
 
+#### 2.7
+- Card-Design
+
 ##### 2.6.4
 - Schriftart zurück auf Gudea gewechselt
 - Fix für den Internet Explorer _(»Pfadi Angenstein« nicht mehr auf 2 Zeilen)_
