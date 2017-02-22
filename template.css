@@ -675,9 +675,9 @@ body {
 }
 
 .menu-schnuppern {
-	background-color: rgba(255, 164, 0, .75) !important;
-	color: #ffffff;
-	box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
+	background-color: #333 !important;
+	color: #ffffff !important;
+	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
 }
 
 .slideshowwrapper {
@@ -708,7 +708,8 @@ body {
 }
 
 .shadow-wrapper {
-	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19);
+	/* box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19); */
+	box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
 }
 
 .items-leading,
@@ -937,7 +938,7 @@ input[ype="password"]:focus {
 	}
 }
 
-/* übernommenes */
+/* Ã¼bernommenes */
 
 li.print-icon,
 li.email-icon,
