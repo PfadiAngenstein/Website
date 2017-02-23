@@ -462,6 +462,10 @@ template {
   display: none;
 }
 
+
+
+/* ALLGEMEIN */
+
 body {
 	font-family: "PT Sans", sans-serif;
 	color: #333;
@@ -500,6 +504,10 @@ body {
 	}
 }
 
+
+
+/* HEADER */
+
 #header_wrap,
 .slideshowwrapper,
 #slideshow {
@@ -534,6 +542,10 @@ body {
 		height: 80px;
 	}
 }
+
+
+
+/* MENU */
 
 #topmenu {
 	margin-top: 0;
@@ -620,6 +632,12 @@ body {
     text-decoration: none;
 }
 
+.menu-schnuppern {
+	background-color: #333 !important;
+	color: #ffffff !important;
+	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
+}
+
 @media only screen and (max-width: 720px) {
 
     .nav-icon {
@@ -674,11 +692,6 @@ body {
     }
 }
 
-.menu-schnuppern {
-	background-color: #333 !important;
-	color: #ffffff !important;
-	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
-}
 
 .slideshowwrapper {
 	width: 100%;
@@ -707,31 +720,15 @@ body {
 	max-width: 100%;
 }
 
+/* Schatten für gesamten Header */
 .shadow-wrapper {
 	/* box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19); */
 	box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
 }
 
-.items-leading,
-.item,
-.item-page {
-	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
-	margin: 0 -4px 0 -4px;
-	padding: 0.5rem 4px 0.5rem 4px;
-	border-radius: 4px;
-	background-color: #fff;
-}
 
-.items-leading *:first-child,
-.item *:first-child,
-.item-page *:first-child {
-	margin-top: 0;
-	padding-top: 0;
-}
 
-.item {
-	margin-top: 0.5rem;
-}
+/* BEITRÄGE */
 
 #breadcrumbs {
 	font-size: 0.8em;
@@ -759,6 +756,27 @@ body {
 [id*="content-"] a.modal {
 	background: #fff !important;
 	text-shado: none;
+}
+
+.items-leading,
+.item,
+.item-page {
+	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
+	margin: 0 -4px 0 -4px;
+	padding: 0.5rem 4px 0.5rem 4px;
+	border-radius: 4px;
+	background-color: #fff;
+}
+
+.items-leading *:first-child,
+.item *:first-child,
+.item-page *:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.item {
+	margin-top: 0.5rem;
 }
 
 .breadcrumbs a,
