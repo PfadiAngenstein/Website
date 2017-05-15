@@ -638,6 +638,10 @@ body {
 	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12);
 }
 
+ul li ul.nav-child {
+	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.23), 0px 13px 12px rgba(0, 0, 0, 0.16);
+}
+
 @media only screen and (max-width: 720px) {
 
     .nav-icon {
@@ -690,6 +694,11 @@ body {
     #topmenu a:hover {
         background-color: #ddd;
     }
+
+	ul li ul.nav-child {
+		box-shadow: none;
+		box-shadow: 0 !important;
+	}
 }
 
 
@@ -753,6 +762,10 @@ body {
 	text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff;
 }
 
+[id*="content-"] a:hover {
+	color: #FFA400;
+}
+
 [id*="content-"] a.modal {
 	background: #fff !important;
 	text-shado: none;
@@ -760,7 +773,8 @@ body {
 
 .items-leading,
 .item,
-.item-page {
+.item-page,
+section#contact {
 	box-shadow: 0 1.5px 4px rgba(0, 0, 0, 0.24), 0 1.5px 6px rgba(0, 0, 0, 0.12) !important;
 	margin: 0 -4px 0 -4px;
 	padding: 0.5rem 4px 0.5rem 4px;
@@ -844,6 +858,7 @@ body {
 #box_placeholder [id*="box"] {
 	width: 33%;
 	float: left;
+	overflow: hidden;
 }
 
 @media only screen and (max-width: 720px) {
