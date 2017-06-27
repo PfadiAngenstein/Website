@@ -729,7 +729,7 @@ ul li ul.nav-child {
 	max-width: 100%;
 }
 
-/* Schatten für gesamten Header */
+/* Schatten fÃ¼r gesamten Header */
 .shadow-wrapper {
 	/* box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19); */
 	box-shadow: 0 3px 12px rgba(0, 0, 0, 0.23), 0 3px 12px rgba(0, 0, 0, 0.16);
@@ -737,7 +737,7 @@ ul li ul.nav-child {
 
 
 
-/* BEITRÄGE */
+/* BEITRÃ„GE */
 
 #breadcrumbs {
 	font-size: 0.8em;
@@ -769,6 +769,22 @@ ul li ul.nav-child {
 [id*="content-"] a.modal {
 	background: #fff !important;
 	text-shado: none;
+}
+
+[id*="content-"] img {
+	border-radius: 4px;
+	transition: all .2s;
+}
+
+[id*="content-"] img.leiterportrait {
+	border-radius: 50%;
+	transition: all .2s;
+}
+
+[id*="content-"] img.leiterportrait:hover,
+[id*="content-"] img.leiterportrait:active {
+	border-radius: 4px;
+	transition: all .2s;
 }
 
 .items-leading,
@@ -978,7 +994,7 @@ input[ype="password"]:focus {
 	}
 }
 
-/* Ã¼bernommenes */
+/* ÃƒÂ¼bernommenes */
 
 li.print-icon,
 li.email-icon,
